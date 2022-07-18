@@ -1,0 +1,28 @@
+main{
+    width: 98vw;
+    height: 40vw;
+}
+
+main img{
+    width: 30vw;
+    height: auto;
+    float: left;
+}
+
+main .header{
+    width: 67vw;
+    height: 9vw;
+    font-size: 7vw;
+    text-align: center;
+    margin-top: 2vw;
+    float: left;
+}
+
+main .body{
+    width: 64vw;
+    height: auto;
+    font-size: 1.5vw;
+    padding: 2vw;
+    text-align: center;
+    float: left;
+}
